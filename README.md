@@ -1,1 +1,1 @@
-https://github.com/Deidata4554/ono-tebe-nado
+https://github.com/Deidata4554/ono-tebe-nado-fd
