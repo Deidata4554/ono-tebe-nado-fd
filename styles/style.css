@@ -93,25 +93,25 @@ li {
   padding-top: 165px;
   color: rgb(255, 255, 255);
   font-size: 100px;
+  line-height: 114.99999999999999%;
   letter-spacing: 0.3em;
   text-transform: uppercase;
-  line-height: 114.99999999999999%;
 }
 
 .aligned-text_left {
   display: block;
-  margin-left: 50px;
   margin-bottom: 20px;
+  margin-left: 50px;
 }
 
 .aligned-text_center {
-    display: block;
-  margin-left: 380.5px;
+  display: block;
   margin-bottom: 20px;
+  margin-left: 380.5px;
 }
 
 .aligned-text_right {
-    display: block;
+  display: block;
   margin-left: 663px;
 }
 
@@ -130,12 +130,12 @@ li {
   z-index: 2;
   color: rgb(255, 255, 255);
   font-size: 22px;
+  line-height: 28px;
   text-transform: uppercase;
   word-spacing: 20px;
-  line-height: 28px;
 }
 
-.bet-button { 
+.bet-button {
   position: relative;
   z-index: 2;
   border: solid 1px rgb(255, 255, 255);
@@ -155,16 +155,16 @@ li {
   margin-bottom: 27px;
   margin-left: 40px;
   font-size: 40px;
-  text-transform: uppercase;
   line-height: 100%;
+  text-transform: uppercase;
 }
 
 .lots__card-list {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 25px;
   list-style: none;
-  flex-wrap: wrap;
 }
 
 .lots__card-list-item {
@@ -217,9 +217,9 @@ li {
   margin: 48px 40px 0;
   color: rgb(255, 255, 255);
   font-size: 22px;
+  line-height: 120%;
   text-decoration: underline 1px;
   text-transform: uppercase;
-  line-height: 120%;
 }
 
 .card__text {
@@ -260,8 +260,8 @@ li {
 .about__title {
   margin-bottom: 100px;
   font-size: 40px;
-  text-transform: uppercase;
   line-height: 100%;
+  text-transform: uppercase;
 }
 
 .about__text {
